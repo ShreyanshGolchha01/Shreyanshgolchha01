@@ -118,15 +118,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ShreyanshGolchha01/ShreyanshGolchha01/output/snake.svg" alt="snake animation" />
-</div>
-
-> If snake animation doesn't appear yet, workflow setup is needed in your profile repo.
-
----
 
 ## ✨ Quote I Follow
 
