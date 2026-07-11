@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Shreyansh Golchha
 
-### 🚀 Full-Stack Developer | MERN | Flutter | Microservices Enthusiast
+### 🚀 Full-Stack Developer | MERN | Flutter 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=B.Tech+CSE+Student+(2023-2027)+at+SSIPMT+Raipur;Software+Developer+Intern+%40+Emilo+Ventures;Building+Scalable+Full-Stack+Applications;Passionate+about+DSA+%2B+System+Design+%2B+Cloud)](https://git.io/typing-svg)
 
