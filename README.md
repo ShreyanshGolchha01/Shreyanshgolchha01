@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=250&section=header&text=Shreyansh%20Golchha&fontSize=70&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20Flutter&descAlignY=55&descSize=20&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=250&section=header&text=Shreyansh%20Golchha&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20Flutter&descAlignY=55&descSize=20&animation=fadeIn" alt="Header" />
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Software+Developer+Intern+%40+Emilo+Ventures;B.Tech+CSE+Student+(2023-2027)+at+SSIPMT+Raipur;Building+Scalable+Full-Stack+Applications;Passionate+about+DSA+%2B+System+Design+%2B+Cloud)](https://git.io/typing-svg)
 
