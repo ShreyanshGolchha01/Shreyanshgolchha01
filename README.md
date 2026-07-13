@@ -148,9 +148,9 @@
   </picture>
   <br/><br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ShreyanshGolchha01&theme=tokyonight&hide_border=true&ring=dd2727&fire=dd2727">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=ShreyanshGolchha01&theme=default&hide_border=true">
-    <img height="170" alt="Streak Stats" src="https://streak-stats.demolab.com?user=ShreyanshGolchha01&theme=default&hide_border=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ShreyanshGolchha01&theme=tokyonight&hide_border=true&ring=FB8C00&fire=FB8C00">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=ShreyanshGolchha01&theme=default&hide_border=true&ring=FB8C00&fire=FB8C00">
+    <img height="170" alt="Streak Stats" src="https://streak-stats.demolab.com?user=ShreyanshGolchha01&theme=default&hide_border=true&ring=FB8C00&fire=FB8C00">
   </picture>
 </div>
 
