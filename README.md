@@ -141,9 +141,19 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ShreyanshGolchha01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyanshGolchha01&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=ShreyanshGolchha01&theme=tokyonight&hide_border=true" />
+  <br/><br/>
   <img height="170" src="https://streak-stats.demolab.com?user=ShreyanshGolchha01&theme=tokyonight&hide_border=true" />
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShreyanshGolchha01/ShreyanshGolchha01/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShreyanshGolchha01/ShreyanshGolchha01/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ShreyanshGolchha01/ShreyanshGolchha01/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <br/>
