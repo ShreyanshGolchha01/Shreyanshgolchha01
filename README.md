@@ -141,7 +141,7 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=ShreyanshGolchha01&theme=tokyonight&hide_border=true&line=0E75B6&point=FFFFFF" />
+  <img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=ShreyanshGolchha01&bg_color=0D1117&color=FFFFFF&line=0E75B6&point=FFFFFF&hide_border=true" />
   <br/><br/>
   <img height="170" src="https://streak-stats.demolab.com?user=ShreyanshGolchha01&theme=tokyonight&hide_border=true" />
 </div>
