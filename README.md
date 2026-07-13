@@ -141,9 +141,17 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=ShreyanshGolchha01&bg_color=0D1117&color=FFFFFF&line=0E75B6&point=FFFFFF&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ShreyanshGolchha01&bg_color=0D1117&color=FFFFFF&line=0E75B6&point=FFFFFF&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ShreyanshGolchha01&bg_color=FFFFFF&color=000000&line=0E75B6&point=000000&hide_border=true">
+    <img width="900" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ShreyanshGolchha01&bg_color=FFFFFF&color=000000&line=0E75B6&point=000000&hide_border=true">
+  </picture>
   <br/><br/>
-  <img height="170" src="https://streak-stats.demolab.com?user=ShreyanshGolchha01&theme=tokyonight&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ShreyanshGolchha01&theme=tokyonight&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=ShreyanshGolchha01&theme=default&hide_border=true">
+    <img height="170" alt="Streak Stats" src="https://streak-stats.demolab.com?user=ShreyanshGolchha01&theme=default&hide_border=true">
+  </picture>
 </div>
 
 ## 🐍 Contribution Snake
