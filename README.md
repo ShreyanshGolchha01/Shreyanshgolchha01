@@ -1,133 +1,167 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=250&section=header&text=Shreyansh%20Golchha&fontSize=70&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20Flutter&descAlignY=55&descSize=20&animation=fadeIn" alt="Header" />
 
-# Hi 👋, I'm Shreyansh Golchha
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Software+Developer+Intern+%40+Emilo+Ventures;B.Tech+CSE+Student+(2023-2027)+at+SSIPMT+Raipur;Building+Scalable+Full-Stack+Applications;Passionate+about+DSA+%2B+System+Design+%2B+Cloud)](https://git.io/typing-svg)
 
-### 🚀 Full-Stack Developer | MERN | Flutter 
+  <p align="center">
+    <a href="mailto:shreyanshgolchha1112@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://www.linkedin.com/in/shreyansh-golchha-04113816b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/ShreyanshGolchha01"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://leetcode.com/u/ShreyanshGolchha/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+    <a href="https://shreyanshgolchha.me/"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=B.Tech+CSE+Student+(2023-2027)+at+SSIPMT+Raipur;Software+Developer+Intern+%40+Emilo+Ventures;Building+Scalable+Full-Stack+Applications;Passionate+about+DSA+%2B+System+Design+%2B+Cloud)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=ShreyanshGolchha01&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-
+  <img src="https://komarev.com/ghpvc/?username=ShreyanshGolchha01&label=Profile%20views&color=0E75B6&style=flat" alt="profile views" />
 </div>
 
----
+<br/>
 
 ## 👨‍💻 About Me
 
-- 🎓 **B.Tech in Computer Science & Engineering** (2023–2027), SSIPMT Raipur  
-- 💼 **Software Developer & Content Moderation Intern** at **Emilo Ventures Pvt. Ltd.** (Jun 2026 – Present)  
-- 🛒 Working on a **multi-vendor e-commerce platform** with **ONDC integration**  
-- 🌱 Currently learning and building in **System Design, Backend Architecture, Cloud & DevOps**  
-- 💬 Ask me about **React, Node.js, Express, Flutter, APIs, MongoDB, MySQL, PostgreSQL**  
-- 🎯 Mission: Build products with real social + business impact  
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="mailto:shreyanshgolchha1112@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/shreyansh-golchha-04113816b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/ShreyanshGolchha01" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://leetcode.com/u/ShreyanshGolchha/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow"/></a>
-<a href="https://shreyanshgolchha.me/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
-
----
+<table>
+  <tr>
+    <td width="60%">
+      <ul>
+        <li>🎓 <b>B.Tech in Computer Science & Engineering</b> (2023–2027), SSIPMT Raipur</li>
+        <li>💼 <b>Software Developer & Content Moderation Intern</b> at <b>Emilo Ventures Pvt. Ltd.</b> (Jun 2026 – Present)</li>
+        <li>🛒 Working on a <b>multi-vendor e-commerce platform</b> with <b>ONDC integration</b></li>
+        <li>🌱 Currently learning and building in <b>System Design, Backend Architecture, Cloud & DevOps</b></li>
+        <li>💬 Ask me about <b>React, Node.js, Express, Flutter, APIs, MongoDB, MySQL, PostgreSQL</b></li>
+        <li>🎯 Mission: Build products with real social & business impact</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=ShreyanshGolchha01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ Tech Stack
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,dart,mysql" />
-</p>
+<div align="center">
+  
+  <table>
+    <tr>
+      <td align="center"><b>Frontend & Mobile</b></td>
+      <td align="center"><b>Backend & Databases</b></td>
+      <td align="center"><b>Tools & DevOps</b></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=react,flutter,javascript,bootstrap,html,css" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,redis" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=git,docker,gcp,linux,vscode,androidstudio" /></td>
+    </tr>
+    <tr>
+      <td align="center"><b>Languages</b></td>
+      <td colspan="2" align="center"><img src="https://skillicons.dev/icons?i=c,cpp,python,java,dart" /></td>
+    </tr>
+  </table>
 
-### Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter,bootstrap" />
-</p>
-
-### Tools, Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=git,linux,docker,gcp,vscode,androidstudio,redis,postgres,mongodb" />
-</p>
-
----
+</div>
 
 ## 🚀 Featured Projects
 
-### 🛍️ Integrated Gifting — Multi-Vendor E-commerce Platform
-**Tech:** React, Express.js, PostgreSQL, Prisma, NATS, Redis, BullMQ, Socket.IO  
-- Contributed to vendor onboarding, catalog management, and platform features  
-- Worked on ONDC integration, bug fixing, and end-to-end testing  
-- Supported integrations: Razorpay, Shiprocket, realtime + background job systems
+<details>
+  <summary><b>🛍️ Integrated Gifting — Multi-Vendor E-commerce Platform</b></summary>
+  <br/>
+  <blockquote>
+    <b>Tech:</b> React, Express.js, PostgreSQL, Prisma, NATS, Redis, BullMQ, Socket.IO<br/>
+    <ul>
+      <li>Contributed to vendor onboarding, catalog management, and platform features</li>
+      <li>Worked on ONDC integration, bug fixing, and end-to-end testing</li>
+      <li>Supported integrations: Razorpay, Shiprocket, realtime & background job systems</li>
+    </ul>
+  </blockquote>
+</details>
 
-### 🌱 Green Palna — Government Plantation Monitoring System
-**Tech:** Flutter, React, Node.js, MySQL  
-- Built geo-tagged sapling tracking linked to childbirth initiatives  
-- Automated monitoring cycles with push notifications & photo verification  
-- Impacted **1000+ families** with structured tracking workflows
+<details>
+  <summary><b>🌱 Green Palna — Government Plantation Monitoring System</b></summary>
+  <br/>
+  <blockquote>
+    <b>Tech:</b> Flutter, React, Node.js, MySQL<br/>
+    <ul>
+      <li>Built geo-tagged sapling tracking linked to childbirth initiatives</li>
+      <li>Automated monitoring cycles with push notifications & photo verification</li>
+      <li>Impacted <b>1000+ families</b> with structured tracking workflows</li>
+    </ul>
+  </blockquote>
+</details>
 
-### 🎯 SkillBridge — Student & Company Opportunity Platform
-**Tech:** React.js, Node.js, Express.js, MongoDB  
-- Developed MERN platform for internships/freelance opportunities  
-- Implemented authentication, role-based access, posting & application workflows
+<details>
+  <summary><b>🎯 SkillBridge — Student & Company Opportunity Platform</b></summary>
+  <br/>
+  <blockquote>
+    <b>Tech:</b> React.js, Node.js, Express.js, MongoDB<br/>
+    <ul>
+      <li>Developed MERN platform for internships/freelance opportunities</li>
+      <li>Implemented authentication, role-based access, posting & application workflows</li>
+    </ul>
+  </blockquote>
+</details>
 
-### 🌿 Har Ghar Munga — Govt Nutrition & Sustainability Initiative
-**Tech:** Flutter, React, PHP, MySQL  
-- Built app supporting Moringa sapling distribution to fight malnutrition  
-- Designed role-based admin workflows and analytics dashboard  
-- Managed **50,000+** distribution records via REST APIs + MySQL
+<details>
+  <summary><b>🌿 Har Ghar Munga — Govt Nutrition & Sustainability Initiative</b></summary>
+  <br/>
+  <blockquote>
+    <b>Tech:</b> Flutter, React, PHP, MySQL<br/>
+    <ul>
+      <li>Built app supporting Moringa sapling distribution to fight malnutrition</li>
+      <li>Designed role-based admin workflows and analytics dashboard</li>
+      <li>Managed <b>50,000+</b> distribution records via REST APIs & MySQL</li>
+    </ul>
+  </blockquote>
+</details>
 
-### 💎 E-Commerce Jewellery Platform
-**Tech:** React.js, HTML5, CSS3, Bootstrap  
-- Developed responsive UI pages and dynamic frontend features  
-- Implemented mobile-first design and basic API integration
+<details>
+  <summary><b>💎 E-Commerce Jewellery Platform</b></summary>
+  <br/>
+  <blockquote>
+    <b>Tech:</b> React.js, HTML5, CSS3, Bootstrap<br/>
+    <ul>
+      <li>Developed responsive UI pages and dynamic frontend features</li>
+      <li>Implemented mobile-first design and basic API integration</li>
+    </ul>
+  </blockquote>
+</details>
 
 ---
 
-## 💼 Experience Snapshot
-
-- **Software Developer & Content Moderation Intern** — Emilo Ventures Pvt. Ltd. *(Jun 2026 – Present)*  
-- **Web Development Trainee** — Skyvo Technologies Pvt. Ltd. *(Jul 2025 – Aug 2025)*  
-- **Web Development Intern** — Acedemor EdTech *(Sep 2023 – Nov 2023)*  
-
----
-
-## 🏆 Achievements
-
-- ✅ Completed **100 Days LeetCode Challenge**  
-- 🧠 Participated in **CODE2X Coding Competition (SSIPMT)**  
-- 📚 Completed **NPTEL Certifications** in:
-  - Cloud Computing  
-  - Java  
-  - Modern C++  
-
----
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%">
+        <h3>💼 Experience</h3>
+        <ul>
+          <li><b>Software Developer & Content Moderation Intern</b><br/><i>Emilo Ventures Pvt. Ltd. (Jun 2026 – Present)</i></li>
+          <li><b>Web Development Trainee</b><br/><i>Skyvo Technologies Pvt. Ltd. (Jul 2025 – Aug 2025)</i></li>
+          <li><b>Web Development Intern</b><br/><i>Acedemor EdTech (Sep 2023 – Nov 2023)</i></li>
+        </ul>
+      </td>
+      <td width="50%">
+        <h3>🏆 Achievements</h3>
+        <ul>
+          <li>✅ Completed <b>100 Days LeetCode Challenge</b></li>
+          <li>🧠 Participated in <b>CODE2X Coding Competition (SSIPMT)</b></li>
+          <li>📚 Completed <b>NPTEL Certifications</b> in Cloud Computing, Java, and Modern C++</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 📈 GitHub Analytics
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ShreyanshGolchha01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyanshGolchha01&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://streak-stats.demolab.com?user=ShreyanshGolchha01&theme=tokyonight&hide_border=true" />
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyanshGolchha01&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=ShreyanshGolchha01&theme=tokyonight&hide_border=true" />
 </div>
 
----
-
-
-## ✨ Quote I Follow
-
-> “Consistency beats intensity. Small daily improvements create remarkable results.”
-
----
+<br/>
 
 <div align="center">
-
-### Thanks for visiting my profile ❤️  
-### Let's build something impactful together 🚀
-
+  <h3>✨ Quote I Follow</h3>
+  <i>“Consistency beats intensity. Small daily improvements create remarkable results.”</i>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=100&section=footer" width="100%"/>
+  <b>Let's build something impactful together 🚀</b>
 </div>
