@@ -18,23 +18,12 @@
 
 ## 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td width="60%">
-      <ul>
-        <li>🎓 <b>B.Tech in Computer Science & Engineering</b> (2023–2027), SSIPMT Raipur</li>
-        <li>💼 <b>Software Developer & Content Moderation Intern</b> at <b>Emilo Ventures Pvt. Ltd.</b> (Jun 2026 – Present)</li>
-        <li>🛒 Working on a <b>multi-vendor e-commerce platform</b> with <b>ONDC integration</b></li>
-        <li>🌱 Currently learning and building in <b>System Design, Backend Architecture, Cloud & DevOps</b></li>
-        <li>💬 Ask me about <b>React, Node.js, Express, Flutter, APIs, MongoDB, MySQL, PostgreSQL</b></li>
-        <li>🎯 Mission: Build products with real social & business impact</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ShreyanshGolchha01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
+- 🎓 **B.Tech in Computer Science & Engineering** (2023–2027), SSIPMT Raipur
+- 💼 **Software Developer & Content Moderation Intern** at **Emilo Ventures Pvt. Ltd.** (Jun 2026 – Present)
+- 🛒 Working on a **multi-vendor e-commerce platform** with **ONDC integration**
+- 🌱 Currently learning and building in **System Design, Backend Architecture, Cloud & DevOps**
+- 💬 Ask me about **React, Node.js, Express, Flutter, APIs, MongoDB, MySQL, PostgreSQL**
+- 🎯 Mission: Build products with real social & business impact
 
 ## 🛠️ Tech Stack
 
@@ -152,6 +141,7 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ShreyanshGolchha01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyanshGolchha01&layout=compact&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://streak-stats.demolab.com?user=ShreyanshGolchha01&theme=tokyonight&hide_border=true" />
 </div>
