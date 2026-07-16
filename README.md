@@ -154,7 +154,7 @@
   </picture>
 </div>
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snakee
 
 <div align="center">
   <picture>
